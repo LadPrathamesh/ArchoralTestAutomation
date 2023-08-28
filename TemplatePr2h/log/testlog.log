@@ -1118,3 +1118,27 @@
 2023-08-28 12:58:25,024 - Frame1 -INFO - Browser Closed
 2023-08-28 12:58:25,026 - Frame1 -INFO - Automation Suite Executed Successfully
 2023-08-28 12:58:26,200 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
+2023-08-28 13:13:44,120 - Frame1 -INFO - Logger Started
+2023-08-28 13:13:44,127 - Frame1 -INFO - Running TestCases Through Excel
+2023-08-28 13:13:44,164 - Frame1 -INFO - Testng Initialized
+2023-08-28 13:13:44,168 - Frame1 -INFO - Listeners Added
+2023-08-28 13:13:44,169 - Frame1 -INFO - XmlSuite Created (Excel Based Suite)
+2023-08-28 13:13:44,291 - Frame1 -INFO - TestClasses Initialized
+2023-08-28 13:13:45,388 - Frame1 -INFO - Test output file created
+2023-08-28 13:13:45,530 - Frame1 -INFO - Logger Started
+2023-08-28 13:13:48,142 - Frame1 -INFO - Chrome launched
+2023-08-28 13:13:51,677 - Frame1 -INFO - url Loaded
+2023-08-28 13:13:51,894 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-28 13:13:51,926 - Frame1 -INFO - TestCase Execution started_(loginTest)
+2023-08-28 13:13:59,286 - Frame1 -INFO - Screenshot Taken
+2023-08-28 13:13:59,303 - Frame1 -INFO - TestCase Executed Successfully_(loginTest)
+2023-08-28 13:13:59,769 - Frame1 -INFO - Browser Closed
+2023-08-28 13:14:01,130 - Frame1 -INFO - Chrome launched
+2023-08-28 13:14:04,417 - Frame1 -INFO - url Loaded
+2023-08-28 13:14:04,635 - Frame1 -INFO - maximized Browser window and added waits
+2023-08-28 13:14:04,636 - Frame1 -INFO - TestCase Execution started_(testFilpkart)
+2023-08-28 13:14:10,330 - Frame1 -INFO - Screenshot Taken
+2023-08-28 13:14:10,331 - Frame1 -INFO - TestCase Executed Successfully_(testFilpkart)
+2023-08-28 13:14:10,644 - Frame1 -INFO - Browser Closed
+2023-08-28 13:14:10,646 - Frame1 -INFO - Automation Suite Executed Successfully
+2023-08-28 13:14:11,322 - Frame1 -INFO - TestngXml Executed Successfully. Check for any Console errors
